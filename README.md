@@ -7,12 +7,10 @@ This project is an interactive HR dashboard created in Power BI to analyze key w
 ## Key Features & KPIs
 
 * **Workforce Overview:** Total employees, gender split, and job level distribution.
-* [cite_start]**Promotion Status:** Analysis of employees due vs. not due for promotion (e.g., **72 due for promotion [cite: 15]**).
-* [cite_start]**Service & Tenure:** A breakdown of employee service years, with the largest cohort having 5 years of service (**196 employees [cite: 23]**).
-* [cite_start]**Commute Analysis:** A donut chart showing the split between Short (**940 employees [cite: 45][cite_start]**), Medium (**301 employees [cite: 41][cite_start]**), and Long (**229 employees [cite: 28]**) commutes.
+* **Promotion Status:** Analysis of employees due vs. not due for promotion (e.g., **72 due for promotion**).
+* **Service & Tenure:** A breakdown of employee service years, with the largest cohort having 5 years of service (**196 employees**).
+* **Commute Analysis:** A donut chart showing the split between Short (**940 employees**), Medium (**301 employees**), and Long (**229 employees**) commutes.
 * **Interactive Slicers:** The dashboard can be filtered by Age, Department, Job Level, Gender, and more to allow for deep-dive analysis.
-
----
 
 ## Technical Skills
 
@@ -20,8 +18,6 @@ This project is an interactive HR dashboard created in Power BI to analyze key w
 * **DAX (Data Analysis Expressions):** Created custom measures to calculate KPIs like 'Due for Promotion %' and 'Retrenchment %'.
 * **Data Visualization:** Designed a clean, intuitive, and interactive user interface following data visualization best practices.
 * **ETL:** Used Power Query to clean and transform the source data (if applicable).
-
----
 
 ## How to Use
 
